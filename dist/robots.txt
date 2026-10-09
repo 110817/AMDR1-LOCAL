@@ -10,4 +10,4 @@ Allow: /
 User-agent: OAI-SearchBot
 Allow: /
 
-Sitemap: https://amdr1-local.patimedrado.chatgpt.site/sitemap.xml
+Sitemap: https://local.amdr1.com.br/sitemap.xml
