@@ -1,8 +1,8 @@
 /*.webp
-  Cache-Control: public, max-age=3600
+  Cache-Control: public, max-age=2592000
 
 /*.png
-  Cache-Control: public, max-age=3600
+  Cache-Control: public, max-age=604800
 
 /*.ico
-  Cache-Control: public, max-age=3600
+  Cache-Control: public, max-age=604800
